@@ -1,0 +1,16 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache files
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
